@@ -1,5 +1,7 @@
 package com.example.a7minutesworkout
 
+//this is to store all the constants
+
 object Constants {
     fun defaultExerciseList():ArrayList<ExerciseModel>{
         val exerciseList = ArrayList<ExerciseModel>()
