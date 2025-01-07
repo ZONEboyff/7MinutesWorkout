@@ -11,6 +11,7 @@ import com.example.a7minutesworkout.databinding.ActivityBmiBinding
 import java.math.BigDecimal
 import java.math.RoundingMode
 
+//Changes to the BMI activity
 class BMIActivity : AppCompatActivity() {
     companion object{
         private const val METRIC_UNITS_VIEW = "METRIC_UNIT_VIEW"
